@@ -1,1 +1,1 @@
-# hand_detector_control_bar
+# HAND DETECTOR AND CONTROL BAR
